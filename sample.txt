@@ -1,0 +1,356 @@
+MEDICAL BILLING STATEMENT AND ITEMIZED CLAIM DOCUMENT  
+DEIDENTIFIED VERSION FOR TESTING AND VALIDATION PURPOSES ONLY
+
+Billing Statement Reference: TEST-MB-000001  
+Statement Generation Date: April 10, 2026  
+Billing Coverage Period: January 1, 2026 through March 31, 2026
+
+IMPORTANT DEIDENTIFICATION NOTICE  
+All names, addresses, identifiers, account numbers, dates of birth, policy numbers, provider identifiers, and locations contained in this document have been altered, anonymized, or replaced with fictitious values. This document is intended solely for system testing, quality assurance, and non-production validation purposes. It does not represent a real patient, provider, insurer, or healthcare encounter.
+
+***
+
+PROVIDER INFORMATION (DEIDENTIFIED)
+
+Billing Entity Name: Sample Regional Healthcare Organization  
+Entity Type: Integrated Health Services Network  
+Internal Provider Reference ID: PRV-TEST-45721  
+Tax Identifier: XX-XXXXXXX (Masked)
+
+Primary Facility Classification:  
+Acute Care Hospital with Associated Outpatient Clinics
+
+Facility Address (Fictitious):  
+1000 Example Medical Plaza  
+Suite 100  
+Example City, EX 12345
+
+Provider Contact Information (Test Only):  
+Main Phone: (000) 555-0000  
+Billing Office Fax: (000) 555-0001
+
+***
+
+RENDERING PROVIDER INFORMATION (DEIDENTIFIED)
+
+Rendering Provider A  
+Professional Type: Physician  
+Specialty: Internal Medicine  
+Provider Reference Code: RND-IM-001
+
+Rendering Provider B  
+Professional Type: Physician  
+Specialty: Cardiology  
+Provider Reference Code: RND-CAR-014
+
+Rendering Provider C  
+Professional Type: Advanced Practice Clinician  
+Specialty: Primary Care  
+Provider Reference Code: RND-PC-223
+
+Rendering Provider D  
+Professional Type: Physician  
+Specialty: Diagnostic Radiology  
+Provider Reference Code: RND-RAD-082
+
+***
+
+PATIENT INFORMATION (DEIDENTIFIED)
+
+Patient Name: TEST PATIENT ALPHA  
+Patient Internal Account ID: PAT-00099871  
+Date of Birth: 01/01/1970 (Altered)  
+Gender: Not Specified
+
+Patient Address (Fictitious):  
+999 Placeholder Lane  
+Testville, TS 00000
+
+Patient Contact Number: (000) 555-1111
+
+***
+
+INSURANCE AND COVERAGE INFORMATION (DEIDENTIFIED)
+
+Primary Payor Name: Sample Health Insurance Corporation  
+Plan Category: Commercial Preferred Provider Plan (PPO)  
+Plan Identifier: PLN-TEST-8899  
+Group Identifier: GRP-TEST-45001  
+Subscriber Type: Self
+
+Secondary Coverage: None Recorded
+
+Coverage Verification Status:  
+Coverage active during all dates of service listed in this statement.
+
+***
+
+FINANCIAL SUMMARY
+
+Total Submitted Charges: $97,346.40  
+Total Payor Allowed Amount: $66,450.12  
+Total Paid by Insurance Plan: $68,438.94  
+Total Contractual Adjustments and Write-Offs: $21,975.26  
+Total Patient Financial Responsibility: $6,932.20
+
+Patient Responsibility Components:  
+Deductible Applied: $2,500.00  
+Coinsurance Amount: $3,692.20  
+Copayment Amounts: $740.00
+
+Outstanding Balance Due: $6,932.20
+
+Payment Due Date: May 10, 2026
+
+***
+
+OUTPATIENT SERVICES DETAIL – PRIMARY CARE AND DIAGNOSTIC TESTING
+
+Date of Service: January 3, 2026  
+Place of Service: Office Setting  
+Service Category: Evaluation and Management
+
+Procedure Code: 99214  
+Service Description: Established patient visit with moderate medical decision complexity  
+Associated Diagnosis Codes (ICD-10):  
+I10 – Essential hypertension  
+E11.9 – Type 2 diabetes mellitus without complications
+
+Charge Amount: $235.00  
+Allowed Amount: $165.00  
+Insurance Paid: $132.00  
+Adjustment Amount: $78.00  
+Patient Share: $25.00
+
+***
+
+Date of Service: January 3, 2026  
+Service Category: Laboratory Testing
+
+Procedure Code: 83036  
+Service Description: Hemoglobin A1c quantitative analysis
+
+Charge Amount: $78.00  
+Allowed Amount: $42.00  
+Insurance Paid: $33.60  
+Adjustment Amount: $36.00  
+Patient Share: $8.40
+
+***
+
+Date of Service: January 3, 2026  
+Service Category: Laboratory Testing
+
+Procedure Code: 80053  
+Service Description: Comprehensive metabolic panel
+
+Charge Amount: $125.00  
+Allowed Amount: $68.00  
+Insurance Paid: $54.40  
+Adjustment Amount: $57.00  
+Patient Share: $13.60
+
+***
+
+SPECIALTY AND DIAGNOSTIC SERVICES
+
+Date of Service: January 14, 2026  
+Place of Service: Outpatient Hospital
+
+Procedure Code: 71046  
+Service Description: Diagnostic chest imaging, two views  
+Diagnosed Condition: Shortness of breath
+
+Charge Amount: $410.00  
+Allowed Amount: $215.00  
+Insurance Paid: $172.00  
+Adjustment Amount: $195.00  
+Patient Share: $43.00
+
+***
+
+Date of Service: January 14, 2026  
+Procedure Code: 93000  
+Service Description: Electrocardiogram with interpretation
+
+Charge Amount: $320.00  
+Allowed Amount: $180.00  
+Insurance Paid: $144.00  
+Adjustment Amount: $120.00  
+Patient Share: $36.00
+
+***
+
+INPATIENT ADMISSION SUMMARY (DEIDENTIFIED)
+
+Admission Type: Emergency  
+Admission Date: February 3, 2026  
+Discharge Date: February 6, 2026
+
+Primary Admission Diagnosis Code:  
+I21.4 – Acute coronary syndrome, non-ST elevation
+
+Secondary Diagnoses:  
+E11.9 – Type 2 diabetes mellitus  
+I10 – Hypertension  
+E78.5 – Hyperlipidemia
+
+***
+
+INPATIENT FACILITY CHARGES – ROOM AND ANCILLARY SERVICES
+
+Revenue Category: Room and Board  
+Revenue Code: 0120
+
+Total Units: 3 Days  
+Charge Amount: $25,200.00  
+Allowed Amount: $16,800.00  
+Insurance Paid: $13,440.00  
+Contract Adjustment: $8,400.00  
+Patient Liability: $3,360.00
+
+***
+
+Revenue Category: Pharmacy Services  
+Charge Amount: $9,740.00  
+Allowed Amount: $6,400.00  
+Insurance Paid: $5,120.00  
+Adjustment Amount: $3,340.00  
+Patient Responsibility: $1,280.00
+
+***
+
+Revenue Category: Laboratory Services  
+Charge Amount: $6,480.00  
+Allowed Amount: $4,200.00  
+Insurance Paid: $3,360.00  
+Adjustment Amount: $2,280.00  
+Patient Responsibility: $840.00
+
+***
+
+Revenue Category: Diagnostic Imaging – CT  
+Charge Amount: $10,960.00  
+Allowed Amount: $7,200.00  
+Insurance Paid: $5,760.00  
+Adjustment Amount: $3,760.00  
+Patient Responsibility: $1,440.00
+
+***
+
+PROFESSIONAL SERVICES DURING INPATIENT STAY
+
+Date of Service: February 4, 2026  
+Procedure Code: 99223  
+Description: Initial inpatient evaluation, high complexity
+
+Charge Amount: $485.00  
+Allowed Amount: $325.00  
+Insurance Paid: $260.00  
+Adjustment Amount: $160.00  
+Patient Share: $65.00
+
+***
+
+Date of Service: February 5, 2026  
+Procedure Code: 92928  
+Description: Percutaneous coronary intervention with stent placement
+
+Charge Amount: $6,800.00  
+Allowed Amount: $4,250.00  
+Insurance Paid: $3,400.00  
+Adjustment Amount: $2,550.00  
+Patient Share: $850.00
+
+***
+
+Date of Service: February 6, 2026  
+Procedure Code: 99238  
+Description: Hospital discharge management
+
+Charge Amount: $210.00  
+Allowed Amount: $145.00  
+Insurance Paid: $116.00  
+Adjustment Amount: $65.00  
+Patient Share: $29.00
+
+***
+
+POST-ACUTE AND REHABILITATION SERVICES
+
+Date of Service Range: February 18, 2026 through March 21, 2026
+
+Procedure Code: 93798  
+Service Description: Cardiac rehabilitation with continuous ECG monitoring  
+عدد Units Rendered: 24
+
+Total Charge Amount: $9,120.00  
+Allowed Amount: $6,240.00  
+Insurance Paid: $4,992.00  
+Adjustment Amount: $2,880.00  
+Patient Responsibility: $1,248.00
+
+***
+
+PHARMACY CLAIMS – DEIDENTIFIED DISCHARGE AND MAINTENANCE MEDICATIONS
+
+Medication Class: Lipid Lowering Agent  
+Generic Description: Statin Therapy  
+Total Charge: $570.00  
+Insurance Paid: $456.00  
+Patient Share: $114.00
+
+Medication Class: Beta Blocker  
+Generic Description: Extended-release cardiovascular agent  
+Total Charge: $396.00  
+Insurance Paid: $316.80  
+Patient Share: $79.20
+
+Medication Class: Oral Antihyperglycemic  
+Generic Description: Biguanide therapy  
+Total Charge: $324.00  
+Insurance Paid: $259.20  
+Patient Share: $64.80
+
+***
+
+CLAIM PROCESSING AND ADJUDICATION NOTES
+
+All claims were reviewed using automated and manual adjudication workflows. Benefits were applied based on contracted rates and test plan benefit structures. No coordination of benefits was required due to single-payor coverage configuration.
+
+Common Adjustment Reason Categories Applied:  
+Contractual Obligation  
+Fee Schedule Reduction  
+Patient Deductible  
+Standard Coinsurance
+
+No services were denied during this billing cycle. All submitted claims met test medical necessity criteria.
+
+***
+
+EXPLANATION OF BENEFITS TEST SUMMARY
+
+Each line item listed above corresponds to an Explanation of Benefits (EOB) generated by the insurer test system. Payment amounts represent finalized adjudication results. Adjustment values reflect differences between submitted charges and allowed amounts under test contract terms.
+
+***
+
+PATIENT COMMUNICATION AND STATEMENT MESSAGE (DEIDENTIFIED)
+
+This billing statement provides a summary of healthcare services rendered during the specified test period. Patient responsibility amounts shown here are calculated based on the applied test insurance benefits and are provided to support system validation scenarios only.
+
+***
+
+PAYMENT AND REMITTANCE INSTRUCTIONS (TEST DATA)
+
+Payments should not be submitted for this document.  
+All remittance instructions displayed are fictitious and intended solely for layout and processing validation testing.
+
+***
+
+DATA PRIVACY AND SECURITY NOTICE
+
+This document is a fully deidentified artifact created for non-production testing. Any resemblance to actual persons, providers, insurers, addresses, or medical events is purely coincidental. Use of this document in production environments is strictly prohibited.
+
+***
+
+END OF DEIDENTIFIED MEDICAL BILLING DOCUMENT
